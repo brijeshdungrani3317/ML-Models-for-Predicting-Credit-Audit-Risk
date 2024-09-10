@@ -23,10 +23,15 @@ Selected the best-performing regression model based on evaluation metrics to pre
 # Tools and Techniques Used:
 
 Python: Core language for data analysis and model building.
+
 Pandas: Data manipulation and preprocessing.
+
 Matplotlib & Seaborn: Data visualization.
+
 Scikit-Learn: Implementing regression models and Grid Search for hyperparameter tuning.
+
 Jupyter Notebook: Interactive environment for development and presentation.
+
 
 
 **This project provides a comprehensive comparison of regression models and helps identify the best predictive model for audit risk, useful for auditors and data scientists in the financial domain. ​**
